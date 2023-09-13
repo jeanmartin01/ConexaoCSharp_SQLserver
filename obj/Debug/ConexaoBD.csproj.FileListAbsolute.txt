@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\User\source\repos\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\User\source\repos\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.Form1.resources
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.Properties.Resources.resources
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\User\source\repos\ConexaoBD\obj\Debug\ConexaoBD.pdb
